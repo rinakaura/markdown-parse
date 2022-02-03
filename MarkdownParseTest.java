@@ -50,8 +50,6 @@ public class MarkdownParseTest {
         assertEquals(links, expectedoutput);
 
     }
-
-
-
+}
 
 
